@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋
 
-My name is Jacob Adamczyk. People often call me Kuba, which is short for Jacob in Poland.
+My name is Jakub Adamczyk. People often call me Kuba, which is short for Jacob in Poland.
 
 Software Engineering is my passion and profession at the same time.
 
