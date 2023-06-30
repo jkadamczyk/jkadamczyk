@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hello! 👋
 
-My name is Jakub Adamczyk. People often call me Kuba, which is short for Jacob in Poland.
+My name is Jakub Adamczyk. People often call me Kuba, which is short for Jakub in Poland.
 
 Software Engineering is my passion and profession at the same time.
 
-My main area of expertise is React Native and Mobile Development in general.
+My main area of expertise is React Native and mobile app development in general.
 
-Apart from engineering, I like music, sports, cuisine, traveling, and movies.
+Apart from engineering, I like sports, music, cooking, and traveling.
