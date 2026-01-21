@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Jakub Adamczyk, but you can call me Kuba (pronounced /koobah/).
 
-I'm a software engineer based in Europe. My main area of expertise is making mobile apps. My technology of choice is usually React Native, but I also work with Native iOS technologies like SwiftUI, UIKit and AppKit.
+I'm a software engineer based in Wrocław, Poland. My main area of expertise is around crypto and mobile apps. I'm really good at React, React Native and Type Script, I'm pretty good at backends in NestJS and I am good enough in Rust on the bakcend too.
 
-When I'm not in front of the computer, you can find me at the gym, running in the park, hiking on a trail, cooking in the kitchen, walking my dog or chillin' on a sofa playing games
+In my free time I'm usually spending time outside with my family or doing sports. I enjoy hacking on things, cooking and fixing things.
